@@ -1,16 +1,14 @@
 ## Hi there 👋
+# this is Raza Ali
 
-<!--
-**razaali-dev-giu/razaali-dev-giu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer building scalable web & mobile applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+TypeScript · React · Next.js · Node.js · Postgres · MongoDB · Docker · JavaScript · Python
+
+### Currently learning
+C++ · DSA · System Design
+
+---
